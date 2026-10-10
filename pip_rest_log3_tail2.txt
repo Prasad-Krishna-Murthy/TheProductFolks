@@ -1,0 +1,15 @@
+﻿Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+   ---------------------------------------- 137.0/137.0 kB 7.9 MB/s eta 0:00:00
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ---------------------------------------- 91.7/91.7 kB ? eta 0:00:00
+Downloading pygments-2.21.0-py3-none-any.whl (1.3 MB)
+   ---------------------------------------- 1.3/1.3 MB 26.4 MB/s eta 0:00:00
+Downloading truststore-0.10.4-py3-none-any.whl (18 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Building wheels for collected packages: langdetect
+  Building wheel for langdetect (pyproject.toml): started
+  Building wheel for langdetect (pyproject.toml): finished with status 'done'
+  Created wheel for langdetect: filename=langdetect-1.0.9-py3-none-any.whl size=993364 sha256=0fae27dfd37b27f5f10a1502e7538b7c234641988dd0760ad03e0e58df0f8490
+  Stored in directory: c:\users\k_pra\appdata\local\pip\cache\wheels\0a\f2\b2\e5ca405801e05eb7c8ed5b3b4bcf1fcabcd6272c167640072e
+Successfully built langdetect
+Installing collected packages: pytz, pydub, brotli, tzdata, typing-inspection, truststore, tomlkit, threadpoolctl, tabulate, six, shellingham, sentencepiece, semantic-version, safetensors, regex, rapidfuzz, pyyaml, python-multipart, pygments, pydantic-core, psutil, portalocker, pillow, packaging, orjson, opentelemetry-api, numpy, narwhals, mdurl, lxml, idna, hf-xet, h11, groovy, colorama, cloudpickle, click, certifi, annotated-types, annotated-doc, uvicorn, tqdm, scipy, sacrebleu, python-dateutil, pydantic, markdown-it-py, langdetect, joblib, httpcore2, httpcore, anyio, starlette, scikit-learn, rich, pandas, httpx2, httpx, typer, safehttpx, huggingface-hub, fastapi, tokenizers, gradio-client, accelerate, transformers, hf-gradio, peft, gradio

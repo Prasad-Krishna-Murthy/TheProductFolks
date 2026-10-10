@@ -1,0 +1,12 @@
+torch
+transformers>=4.38.0
+peft>=0.9.0
+accelerate>=0.27.0
+sentencepiece
+gradio>=4.19.0
+langdetect
+pandas
+numpy
+scikit-learn
+sacrebleu
+rapidfuzz

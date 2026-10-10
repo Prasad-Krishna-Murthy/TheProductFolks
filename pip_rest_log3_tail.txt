@@ -1,0 +1,60 @@
+﻿   ---------------------------------------- 36.6/36.6 MB 14.2 MB/s eta 0:00:00
+Downloading semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading starlette-1.7.0-py3-none-any.whl (78 kB)
+   ---------------------------------------- 79.0/79.0 kB 4.3 MB/s eta 0:00:00
+Downloading tabulate-0.10.0-py3-none-any.whl (39 kB)
+Downloading threadpoolctl-3.7.0-py3-none-any.whl (26 kB)
+Downloading tokenizers-0.23.3-cp310-abi3-win_amd64.whl (2.9 MB)
+   ---------------------------------------- 2.9/2.9 MB 18.3 MB/s eta 0:00:00
+Downloading tomlkit-0.14.0-py3-none-any.whl (39 kB)
+Downloading tqdm-4.70.1-py3-none-any.whl (80 kB)
+   ---------------------------------------- 80.2/80.2 kB 4.4 MB/s eta 0:00:00
+Downloading typer-0.27.3-py3-none-any.whl (123 kB)
+   ---------------------------------------- 123.3/123.3 kB 7.1 MB/s eta 0:00:00
+Downloading uvicorn-0.54.0-py3-none-any.whl (87 kB)
+   ---------------------------------------- 87.4/87.4 kB 5.1 MB/s eta 0:00:00
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading lxml-6.1.3-cp311-cp311-win_amd64.whl (4.0 MB)
+   ---------------------------------------- 4.0/4.0 MB 19.8 MB/s eta 0:00:00
+Downloading portalocker-4.4.0-py3-none-any.whl (129 kB)
+   ---------------------------------------- 129.6/129.6 kB 3.7 MB/s eta 0:00:00
+Downloading psutil-7.2.2-cp37-abi3-win_amd64.whl (137 kB)
+   ---------------------------------------- 137.7/137.7 kB 8.5 MB/s eta 0:00:00
+Downloading tzdata-2026.5-py2.py3-none-any.whl (347 kB)
+   --------------------------------------- 348.0/348.0 kB 21.1 MB/s eta 0:00:00
+Downloading annotated_doc-0.0.5-py3-none-any.whl (5.3 kB)
+Downloading annotated_types-0.8.0-py3-none-any.whl (13 kB)
+Downloading click-8.5.0-py3-none-any.whl (125 kB)
+   ---------------------------------------- 125.3/125.3 kB 7.2 MB/s eta 0:00:00
+Downloading cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Downloading hf_xet-1.7.0-cp38-abi3-win_amd64.whl (3.8 MB)
+   ---------------------------------------- 3.8/3.8 MB 24.4 MB/s eta 0:00:00
+Downloading httpx2-2.13.1-py3-none-any.whl (95 kB)
+   ---------------------------------------- 95.6/95.6 kB 5.7 MB/s eta 0:00:00
+Downloading httpcore2-2.13.1-py3-none-any.whl (83 kB)
+   ---------------------------------------- 83.4/83.4 kB 4.6 MB/s eta 0:00:00
+Downloading idna-3.20-py3-none-any.whl (69 kB)
+   ---------------------------------------- 69.6/69.6 kB 3.7 MB/s eta 0:00:00
+Downloading opentelemetry_api-1.45.1-py3-none-any.whl (60 kB)
+   ---------------------------------------- 60.3/60.3 kB 3.1 MB/s eta 0:00:00
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+   ---------------------------------------- 310.7/310.7 kB 9.7 MB/s eta 0:00:00
+Downloading shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Downloading typing_inspection-0.4.4-py3-none-any.whl (14 kB)
+Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+   ---------------------------------------- 137.0/137.0 kB 7.9 MB/s eta 0:00:00
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+   ---------------------------------------- 91.7/91.7 kB ? eta 0:00:00
+Downloading pygments-2.21.0-py3-none-any.whl (1.3 MB)
+   ---------------------------------------- 1.3/1.3 MB 26.4 MB/s eta 0:00:00
+Downloading truststore-0.10.4-py3-none-any.whl (18 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Building wheels for collected packages: langdetect
+  Building wheel for langdetect (pyproject.toml): started
+  Building wheel for langdetect (pyproject.toml): finished with status 'done'
+  Created wheel for langdetect: filename=langdetect-1.0.9-py3-none-any.whl size=993364 sha256=0fae27dfd37b27f5f10a1502e7538b7c234641988dd0760ad03e0e58df0f8490
+  Stored in directory: c:\users\k_pra\appdata\local\pip\cache\wheels\0a\f2\b2\e5ca405801e05eb7c8ed5b3b4bcf1fcabcd6272c167640072e
+Successfully built langdetect
+Installing collected packages: pytz, pydub, brotli, tzdata, typing-inspection, truststore, tomlkit, threadpoolctl, tabulate, six, shellingham, sentencepiece, semantic-version, safetensors, regex, rapidfuzz, pyyaml, python-multipart, pygments, pydantic-core, psutil, portalocker, pillow, packaging, orjson, opentelemetry-api, numpy, narwhals, mdurl, lxml, idna, hf-xet, h11, groovy, colorama, cloudpickle, click, certifi, annotated-types, annotated-doc, uvicorn, tqdm, scipy, sacrebleu, python-dateutil, pydantic, markdown-it-py, langdetect, joblib, httpcore2, httpcore, anyio, starlette, scikit-learn, rich, pandas, httpx2, httpx, typer, safehttpx, huggingface-hub, fastapi, tokenizers, gradio-client, accelerate, transformers, hf-gradio, peft, gradio
